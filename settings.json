@@ -1,0 +1,38 @@
+{
+  "texts": {
+    "startButton": "Explore Universe",
+    "loaderLoading": "Loading universe...",
+    "loaderReady": "Universe Ready",
+    "introTitle": "Galaxy of Memories",
+    "introSubtitle": "A personal universe of moments, light, and stars",
+    "milestoneTitle": "A milestone worth celebrating",
+    "milestoneSubtitle": "Every step of the journey shines brighter than the last",
+    "turningPointTitle": "Every star tells a story",
+    "turningPointSubtitle": "And this special chapter is dedicated to you",
+    "revealTitle": "Here it is...",
+    "revealSubtitle": "Your own constellation of moments",
+    "photoIndex": "Memory",
+    "finalTitle": "HAPPY BIRTHDAY!",
+    "finalSubtitle": "Wishing you joy, endless blessings, and many more light-years ahead",
+    "endTitle": "MADE WITH LOVE & CODE",
+    "webglFallback": "Hardware rendering is unsupported on this device."
+  },
+
+  "audio": {
+    "ambient": { "m4a": "music/galaxi.m4a", "ogg": "music/galaxi.ogg" },
+    "event":   { "m4a": "music/happy.m4a",  "ogg": "music/happy.ogg" }
+  },
+
+  "photos": {
+    "special": [
+      { "path": "photos/photo_1.webp", "caption": "The beginning of an incredible journey" },
+      { "path": "photos/photo_2.webp", "caption": "Shining bright through every single moment" }
+    ],
+    "gallery": [
+      { "path": "photos/photo_3.webp", "caption": "Laughter, happiness, and unforgettable days" },
+      { "path": "photos/photo_4.webp", "caption": "Grateful for all the beautiful memories" },
+      { "path": "photos/photo_5.webp", "caption": "May your path always be filled with light" },
+      { "path": "photos/photo_6.webp", "caption": "To endless joy, blessings, and light-years together" }
+    ]
+  }
+}
